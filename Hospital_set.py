@@ -18,4 +18,3 @@ all_sterile = sterile_lab_equipment | sterile_er_equipment
 print("All Sterile Equipment:", all_sterile)  
 all_contaminated = contaminated
 print("All contaminated Equipment:", all_contaminated)
-# Output: {'Microscope', 'Centrifuge', 'Pipettes', 'Stethoscope'}

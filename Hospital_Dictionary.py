@@ -20,3 +20,4 @@ print("Garcia's allergies:", patients["P882"]["allergies"])
 
 # Add new patient
 patients["P883"] = {"name": "Alex Kim", "allergies": ["Latex"], "ward": "ER"}
+patients["P884"] = {"name": "keshii shii", "allergies": ["proteins"]}

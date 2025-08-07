@@ -11,7 +11,7 @@ medication_stack.append("Vitamins")
 medication_stack.append("suppliments")
 medication_stack.append("Antiacids")
 
-# print("Pharmacy Stock:", medication_stack)  
+print("Pharmacy Stock:", medication_stack)  
 
 # Dispense medications
 for _ in range(4):
